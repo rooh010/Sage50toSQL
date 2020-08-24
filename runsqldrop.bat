@@ -1,0 +1,1 @@
+sqlcmd -S demo\Sqlexpress -d Sage -U sa -P password -I -i c:\SAGE\dropandcreate.sql
